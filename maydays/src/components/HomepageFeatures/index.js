@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '🚨 MayDay\'s Initiative 🚀',
+    Svg: require('@site/static/img/maydays-1.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Maydays is an ambitious initiative aiming to bring to life an innovative project every day throughout the month of May. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '🗓️ 1 Day - 1 Project 🏗️',
+    Svg: require('@site/static/img/maydays-2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This daily showcase of skills highlights our creativity and ability to tackle diverse challenges.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '🎯 A Creative Adventure 🖋️',
+    Svg: require('@site/static/img/maydays-3.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The goal of Maydays is to secure an apprenticeship contract for the fall by demonstrating our commitment and skills through these daily projects.
       </>
     ),
   },
