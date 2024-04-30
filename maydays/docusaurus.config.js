@@ -64,7 +64,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/maydays-social-card.jpg',
+      image: 'static/img/maydays-social-card.jpg',
       navbar: {
         title: 'May Days',
         logo: {
