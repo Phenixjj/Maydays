@@ -2,7 +2,7 @@
 
 A tool developed with Python and CrewAI to generate LinkedIn posts to promote May Day's projects
 
-![post_img]()
+![post_img](../maydays/static/img/project_img/Default_des_petits_agents_robot_avec_des_tlphone_et_des_ordina_1.jpg)
 
 ## Features
 
