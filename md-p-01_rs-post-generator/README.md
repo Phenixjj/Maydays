@@ -19,7 +19,6 @@ Clone the GitHub repository:
 
 ```bash
 git clone https://github.com/Phenixjj/Maydays.git
-git checkout project/md-p-01_rs-post_generator
 ```
 
 Navigate to the project directory:
