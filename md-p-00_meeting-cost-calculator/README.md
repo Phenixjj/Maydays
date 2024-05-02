@@ -2,7 +2,7 @@
 
 A meeting cost calculator developed with Next.js to calculate the total cost of a meeting based on selected employees and meeting duration.
 
-! [meeting_cost_calc_img](./data/md-p_00_metting-cost-calc-img.png "Calculator")
+![meeting_cost_calc_img](./data/md-p_00_metting-cost-calc-img.png)
 
 ## Features
 
