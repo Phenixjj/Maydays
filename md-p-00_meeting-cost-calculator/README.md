@@ -21,13 +21,14 @@ npm (or yarn)
 Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/your-username/meeting-cost-calculator.git
+git clone https://github.com/Phenixjj/Maydays.git
+git checkout project/md-p-00_meeting-cost-calculator
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd meeting-cost-calculator
+cd md-p-00_meeting-cost-calculator
 ```
 
 Install dependencies:
