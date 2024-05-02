@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Projects',
           },
-          {href: 'https://cv-jlnextjs.web.app/', label: 'Resume', position: 'left'},
+          {href: 'https://www.linkedin.com/in/jean-lecigne-68aa0320a/', label: 'LinkedIn', position: 'left'},
           {
             href: 'https://github.com/Phenixjj',
             label: 'GitHub',
@@ -111,8 +111,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Resume',
-                href: 'https://cv-jlnextjs.web.app/',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/jean-lecigne-68aa0320a/',
               },
               {
                 label: 'GitHub',

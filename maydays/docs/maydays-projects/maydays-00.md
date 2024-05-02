@@ -9,7 +9,7 @@ A meeting cost calculator developed with Next.js to calculate the total cost of 
 
 ## Features
 
-Upload a CSV file containing employee data (name and hourly wage).
+Upload a CSV file containing employee data (name and yearly wage).
 Select employees to include in the meeting.
 Input the meeting duration in hours.
 Automatically calculate the total meeting cost based on selected employees and entered duration.
@@ -21,6 +21,10 @@ Next.js
 React
 CSV Parser
 Tailwind CSS (for styling)
+
+## Repository
+
+[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/md-p-00_meeting-cost-calculator)
 
 ## Author
 Jean LECIGNE
