@@ -22,5 +22,9 @@ React
 CSV Parser
 Tailwind CSS (for styling)
 
+## Repository
+
+[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/md-p-00_meeting-cost-calculator)
+
 ## Author
 Jean LECIGNE
