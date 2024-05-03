@@ -20,7 +20,7 @@ Python
 
 ## Repository
 
-[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/md-p-01_rs-post-generator)
+[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/md-p-02_old-game-reborn)
 
 
 ## Author
