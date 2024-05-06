@@ -6,12 +6,24 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'cd maydays/ && npm install'
+                dir('maydays') {
+                    sh 'npm install'
+                }
             }
         }
         stage('Test') {
             steps {
-                sh './maydays/jenkins/scripts/test.sh'
+                dir('maydays') {
+                    sh './jenkins/scripts/test.sh'
+                }
+                
+            }
+        }
+        stage('Deploy') {
+            steps {
+                dir('maydays') {
+                    sh './script/deploy.sh'
+                }
             }
         }
     }
