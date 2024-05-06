@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                cd maysdays
+                sh 'cd maydays'
                 sh 'npm install'
             }
         }
