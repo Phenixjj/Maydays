@@ -21,7 +21,7 @@ Jenkin Docker
 
 ## Repository
 
-[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/)
+[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/md-p-03_jenkins_pipeline)
 
 ## Author
 Jean LECIGNE
