@@ -16,12 +16,5 @@ pipeline {
                 
             }
         }
-        stage('Deploy') {
-            steps {
-                dir('maydays') {
-                    sh 'firebase deploy' 
-                }
-            }
-        }
     }
 }
