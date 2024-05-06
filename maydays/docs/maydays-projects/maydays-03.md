@@ -9,6 +9,8 @@ This project showcases a Jenkins multibranch pipeline configured specifically fo
 
 ## Features
 
+![post_img](../../static/img/project_img/Jenkins_maydays.png)
+
 The Jenkins pipeline automates the build, test, and deployment processes for Mayday's projects. It includes stages for:
 
 * Building the application from source code
