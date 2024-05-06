@@ -2,7 +2,7 @@
 
 This project showcases a Jenkins multibranch pipeline configured specifically for Mayday's repo, demonstrating CI/CD practices and automation.
 
-![post_img](../maydays/img/project_img/maydays-03.jpg)
+![pipeline_img](../maydays/static/img/project_img/maydays-03.jpg)
 
 ## Prerequisites
 Ensure the following tools are installed and configured:
@@ -15,7 +15,7 @@ Ensure the following tools are installed and configured:
 
 ## Features
 
-![post_img](../maydays/img/project_img/Jenkins_maydays.png)
+![jenkins_img](../maydays/static/img/project_img/Jenkins_maydays.png)
 
 The Jenkins pipeline automates the build, test, and deployment processes for Mayday's projects. It includes stages for:
 
