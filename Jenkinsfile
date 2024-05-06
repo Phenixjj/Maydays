@@ -19,7 +19,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 dir('maydays') {
-                    sh './script/deploy.sh'
+                    sh 'firebase deploy' 
                 }
             }
         }
