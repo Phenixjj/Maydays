@@ -2,7 +2,7 @@
 
 This Jupyter Notebook demonstrates how to remove subtitles or text overlays from images using Python and OpenCV (cv2) for image processing techniques like thresholding, morphological operations, and inpainting.
 
-![pipeline_img](../maydays/static/img/project_img/jedi_in_temple.jpg)
+![pipeline_img](../maydays/static/img/project_img/hello-there-para.png)
 
 ## Prerequisites
 Ensure the following tools are installed and configured:
