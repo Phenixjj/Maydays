@@ -2,7 +2,10 @@
 
 Retrieval-Augmented Generation (RAG) AI for PDF is a project that uses the RAG model from Hugging Face to process and understand PDF documents.
 
-![monitoring_img](../maydays/static/img/project_img/RAG_AI_FOR_PDF.png)
+![rag_img](../maydays/static/img/project_img/rag_ai_img.jpg)
+
+
+![response_img](../maydays/static/img/project_img/RAG_AI_FOR_PDF.png)
 
 ## Prerequisites
 
