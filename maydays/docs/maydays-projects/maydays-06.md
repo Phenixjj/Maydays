@@ -7,8 +7,6 @@ Retrieval-Augmented Generation (RAG) AI for PDF is a project that uses the RAG m
 
 ![rag_img](../../static/img/project_img/rag_ai_img.jpg)
 
-![response_img](../../static/img/project_img/RAG_AI_FOR_PDF.png)
-
 
 ## How It Works
 
