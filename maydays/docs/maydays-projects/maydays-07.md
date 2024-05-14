@@ -5,10 +5,10 @@ slidebar_position: 8
 
 This project is designed to convert radio broadcasts into text format. It uses speech recognition and audio processing libraries to transcribe audio files.
 
-![radio_to_txt_city_img](../maydays/static/img/project_img/radio_to_text.jpg)
+![radio_to_txt_city_img](../../static/img/project_img/radio_to_text.jpg)
 
 
-![radio_to_text_terminal_img](../maydays/static/img/project_img/radio_to_text.png)
+![radio_to_text_terminal_img](../../static/img/project_img/radio_to_text.png)
 
 ## Prerequisites
 
