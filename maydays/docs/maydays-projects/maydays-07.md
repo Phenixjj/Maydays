@@ -29,7 +29,7 @@ Python Whisper Ffmpeg
 
 ## Repository
 
-[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/md-p-07_radio_to_text)
+[Discover the code, GitHub repo here =>](https://github.com/Phenixjj/Maydays/tree/master/md-p-07_radio-to-text)
 
 ## Author
 Jean LECIGNE
