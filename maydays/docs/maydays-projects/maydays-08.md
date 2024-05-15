@@ -5,7 +5,7 @@ sidebar_position: 8
 
 Welcome to the MayDays website wireframe and design repository! This project showcases the initial wireframe layout and the final design concept for the MayDays initiative website.
 
-![figme_img](../..static/img/project_img/figma_wireframe.png)
+![figme_img](../../static/img/project_img/figma_wireframe.png)
 
 
 ## Overview
