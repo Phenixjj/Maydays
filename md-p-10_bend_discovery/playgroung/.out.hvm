@@ -1,0 +1,31 @@
+@MyTree/Leaf = (a (* ((a b) b)))
+
+@MyTree/Node = (a (b (c ((a (b (c d))) (* d)))))
+
+@gen = a
+  & @gen__bend0 ~ (0 a)
+
+@gen__bend0 = ({$(:[<] $(a ?((@gen__bend0__C0 @gen__bend0__C1) (b (c d))))) b} ({a c} d))
+
+@gen__bend0__C0 = (a (* b))
+  & @MyTree/Leaf ~ (a b)
+
+@gen__bend0__C1 = (* ({a {$([+1] b) $([+1] e)}} ({c f} h)))
+  & @MyTree/Node ~ (a (d (g h)))
+  &! @gen__bend0 ~ (b (c d))
+  &! @gen__bend0 ~ (e (f g))
+
+@main = a
+  & @sum ~ (@main__C0 a)
+
+@main__C0 = a
+  & @gen ~ (16 a)
+
+@sum = a
+  & @sum__fold0 ~ a
+
+@sum__fold0 = ((@sum__fold0__C0 ((a a) b)) b)
+
+@sum__fold0__C0 = ($(:[+] $(b $(:[+] $(d e)))) (a (c e)))
+  &! @sum__fold0 ~ (a b)
+  &! @sum__fold0 ~ (c d)
