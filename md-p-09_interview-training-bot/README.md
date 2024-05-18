@@ -1,11 +1,6 @@
-# R.A.G AI for .pdf
+# Interview training bot
 
-Retrieval-Augmented Generation (RAG) AI for PDF is a project that uses the RAG model from Hugging Face to process and understand PDF documents.
-
-![rag_img](../maydays/static/img/project_img/rag_ai_img.jpg)
-
-
-![response_img](../maydays/static/img/project_img/RAG_AI_FOR_PDF.png)
+Interview training bot a project that uses the RAG to process and understand PDF documents and ask questions about it.
 
 ## Prerequisites
 
@@ -18,8 +13,8 @@ Before you begin, ensure you have met the following requirements:
 ## How It Works
 
 1. **PDF Processing:** The text is extracted from the PDF documents and preprocessed for the RAG model.
-2. **RAG Model:** The RAG model is used to understand the content of the PDF and generate responses based on it.
-3. **Output:** The output is provided in a structured format or as a natural language summary, depending on your needs.
+2. **RAG Model:** The RAG model is used to understand the content of the PDF and generate questions based on it.
+
 
 ## Usage
 
@@ -28,13 +23,15 @@ Store your pdf in the data folder
 
 ### Populate the database
 ```bash
+cd db
 python populate_database.py
 ```
 
-### Query your data
+### Let the interview bot ask question
 ```bash
-python query_data.py --query_text "your fabulous question about your data ?"
+python main.py"
 ```
+
 
 ## Contributing
 Contributions to the project are welcome! To contribute:
