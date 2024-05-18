@@ -1,5 +1,5 @@
 ---
-slidebar_position: 8
+sidebar_position: 8
 ---
 # Radio to text
 
