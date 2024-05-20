@@ -5,7 +5,7 @@ sidebar_position: 10
 
 Interview training bot a project that uses the RAG to process and understand PDF documents and ask questions about it.
 
-Todo : generate add img here 
+[AI bot img](../../static/img/project_img/AI_training_bot.jpg)
 
 ## Prerequisites
 
