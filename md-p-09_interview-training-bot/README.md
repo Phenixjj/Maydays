@@ -2,7 +2,7 @@
 
 Interview training bot a project that uses the RAG to process and understand PDF documents and ask questions about it.
 
-[AI_training_bot_img](../maydays/static/img/project_img/AI_training_bot.jpg)
+![AI_training_bot_img](../maydays/static/img/project_img/AI_training_bot.jpg)
 
 ## Prerequisites
 
