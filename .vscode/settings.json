@@ -1,3 +1,6 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": [
+        "./md-p-11_Crew-AI-and-RAG/AIssistant/aissistant"
+    ]
 }
