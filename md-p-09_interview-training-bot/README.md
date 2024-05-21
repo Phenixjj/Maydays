@@ -31,7 +31,7 @@ python populate_database.py
 
 ### Let the interview bot ask question
 ```bash
-python main.py"
+python main.py
 ```
 
 
