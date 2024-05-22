@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore .env file
+.env
+
+# Ignore Mac system files
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
