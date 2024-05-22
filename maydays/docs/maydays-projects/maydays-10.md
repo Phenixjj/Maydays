@@ -1,7 +1,6 @@
 ---
 sidebar_position: 11
 ---
-
 # AI Advanced Agent using RAG
 
 ![AI bot img](../../static/img/project_img/Default_Crez_une_illustration_futuriste_mettant_en_scne_un_age_1.jpg)
