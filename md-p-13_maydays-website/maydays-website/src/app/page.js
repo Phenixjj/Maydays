@@ -4,9 +4,9 @@ import Image from "next/image";
 import Background from "@/components/background";
 import Button from "@/components/button";
 import { useState, useEffect } from "react";
-import betta1 from "../../public/static/img/betta_1.png";
-import betta2 from "../../public/static/img/betta_2.png";
-import betta3 from "../../public/static/img/betta_3.png";
+import betta1 from "../../public/betta_1.png";
+import betta2 from "../../public/betta_2.png";
+import betta3 from "../../public/betta_3.png";
 
 export default function Home() {
   const discordUrl = "https://discord.gg/d7xC8fvdca";
@@ -29,7 +29,7 @@ export default function Home() {
         style={{ transform: `translateY(${scrollY * 0.2}px)` }}
       >
         <h1 className="mt-10 font-orbitron text-9xl font-bold px-32">
-          May Day's Initiative
+          May Day&apos;s Initiative
         </h1>
         <p className="mt-9 font-oxygen font-bold text-6xl text-left px-32">
           Celebrating Innovation and <br />
@@ -58,7 +58,7 @@ export default function Home() {
           style={{ transform: `translateY(${scrollY * 0.35}px)` }}
         >
           <h2 className="mt-20 font-montserrat text-5xl text-center text-[#EDEDED]">
-            Join Us in Unleashing Innovation During May Day's
+            Join Us in Unleashing Innovation During May Day&apos;s
           </h2>
           <p className="mt-20 font-montserrat text-3xl text-center text-[#EDEDED] opacity-80">
             Explore a projects dedicated to fostering creativity and driving
@@ -74,7 +74,7 @@ export default function Home() {
                   Inspire Collaborative Projects:
                 </h6>
                 <p className="mt-4 text-xl text-[#EDEDED] opacity-80">
-                  May Day's aims to inspire individuals and teams to collaborate
+                  May Day&apos;s aims to inspire individuals and teams to collaborate
                   on <br />
                   innovative projects that address real-world challenges. By
                   fostering
@@ -95,7 +95,7 @@ export default function Home() {
                   boundaries and spark new perspectives. From art and technology
                   to
                   <br />
-                  social innovation, May Day's highlights the power of
+                  social innovation, May Day&apos;s highlights the power of
                   imagination.
                 </p>
               </li>
@@ -126,6 +126,7 @@ export default function Home() {
               placeholder="blur"
               quality={90}
               width={800}
+              unoptimized
             />
           </div>
         </div>
@@ -141,13 +142,14 @@ export default function Home() {
             placeholder="blur"
             quality={90}
             width={550}
+            unoptimized
           />
         </div>
         <div className="flex mt-44 flex-row items-center">
           <p className="font-oxygen text-3xl text-left pl-44 text-[#EDEDED] opacity-80">
             Join us in this exciting journey of exploration and innovation
             <br />
-            during May Day's! Together, let's create, inspire, and make a<br />
+            during May Day&apos;s! Together, let&apos;s create, inspire, and make a<br />
             difference.
             <br />
           </p>
@@ -167,6 +169,7 @@ export default function Home() {
               placeholder="blur"
               quality={90}
               width={1250}
+              unoptimized
             />
           </div>
           <footer className="absolute mb-12 bottom-0 w-full text-center z-10 flex justify-between items-center px-4">
@@ -189,7 +192,7 @@ export default function Home() {
               </a>
             </div>
             <p className="mr-32">
-              {new Date().getFullYear()} &copy; May Day’s !
+              {new Date().getFullYear()} &copy; May Day&apos;s !
             </p>
           </footer>
         </div>
